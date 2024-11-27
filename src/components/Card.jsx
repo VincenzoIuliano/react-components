@@ -18,6 +18,7 @@ export default function Card () {
               consequatur magnam?
             </p>
           </div>
+          <Button />
         </div>
       </>
     );
